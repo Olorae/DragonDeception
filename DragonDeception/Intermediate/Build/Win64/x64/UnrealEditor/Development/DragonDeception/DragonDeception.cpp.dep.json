@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\coralie\\documents\\unreal projects\\dragon deception\\dragondeception\\source\\dragondeception\\dragondeception.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\coralie\\documents\\unreal projects\\dragon deception\\dragondeception\\intermediate\\build\\win64\\x64\\dragondeceptioneditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\coralie\\documents\\unreal projects\\dragon deception\\dragondeception\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dragondeception\\definitions.dragondeception.h",
+            "c:\\users\\coralie\\documents\\unreal projects\\dragon deception\\dragondeception\\source\\dragondeception\\dragondeception.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

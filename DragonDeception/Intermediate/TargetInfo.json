@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "DragonDeception",
+			"Path": "..\\Source\\DragonDeception.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DragonDeceptionEditor",
+			"Path": "..\\Source\\DragonDeceptionEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

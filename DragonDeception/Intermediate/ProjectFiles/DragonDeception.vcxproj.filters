@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\DragonDeception.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DragonDeception.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\DragonDeceptionEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\DragonDeception">
+      <UniqueIdentifier>{394E02E4-A80D-3EE9-A841-1920CCAA4B50}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\DragonDeception\DragonDeception.Build.cs">
+      <Filter>Source\DragonDeception</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\DragonDeception\DragonDeception.cpp">
+      <Filter>Source\DragonDeception</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\DragonDeception.h">
+      <Filter>Source\DragonDeception</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DragonDeception\DragonDeceptionCharacter.cpp">
+      <Filter>Source\DragonDeception</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\DragonDeceptionCharacter.h">
+      <Filter>Source\DragonDeception</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DragonDeception\DragonDeceptionGameMode.cpp">
+      <Filter>Source\DragonDeception</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\DragonDeceptionGameMode.h">
+      <Filter>Source\DragonDeception</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DragonDeception\DragonDeceptionPlayerController.cpp">
+      <Filter>Source\DragonDeception</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\DragonDeceptionPlayerController.h">
+      <Filter>Source\DragonDeception</Filter>
+    </ClInclude>
+    <Filter Include="Source\DragonDeception\Variant_Strategy">
+      <UniqueIdentifier>{3B40D302-D7A8-3AF5-A9C9-42E581A59689}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DragonDeception\Variant_Strategy\StrategyGameMode.cpp">
+      <Filter>Source\DragonDeception\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\Variant_Strategy\StrategyGameMode.h">
+      <Filter>Source\DragonDeception\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DragonDeception\Variant_Strategy\StrategyPawn.cpp">
+      <Filter>Source\DragonDeception\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\Variant_Strategy\StrategyPawn.h">
+      <Filter>Source\DragonDeception\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DragonDeception\Variant_Strategy\StrategyPlayerController.cpp">
+      <Filter>Source\DragonDeception\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\Variant_Strategy\StrategyPlayerController.h">
+      <Filter>Source\DragonDeception\Variant_Strategy</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DragonDeception\Variant_Strategy\StrategyUnit.cpp">
+      <Filter>Source\DragonDeception\Variant_Strategy</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\Variant_Strategy\StrategyUnit.h">
+      <Filter>Source\DragonDeception\Variant_Strategy</Filter>
+    </ClInclude>
+    <Filter Include="Source\DragonDeception\Variant_Strategy\UI">
+      <UniqueIdentifier>{DE369C7C-CEFF-370E-B7A2-25521EA81614}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DragonDeception\Variant_Strategy\UI\StrategyHUD.cpp">
+      <Filter>Source\DragonDeception\Variant_Strategy\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\Variant_Strategy\UI\StrategyHUD.h">
+      <Filter>Source\DragonDeception\Variant_Strategy\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DragonDeception\Variant_Strategy\UI\StrategyUI.cpp">
+      <Filter>Source\DragonDeception\Variant_Strategy\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\Variant_Strategy\UI\StrategyUI.h">
+      <Filter>Source\DragonDeception\Variant_Strategy\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\DragonDeception\Variant_TwinStick">
+      <UniqueIdentifier>{BE1D0BD7-68A4-3DC3-8C24-FA76994BADDA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\DragonDeception\Variant_TwinStick\AI">
+      <UniqueIdentifier>{0BE3B5B1-788A-3461-A82D-9BD0A1993EE9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DragonDeception\Variant_TwinStick\AI\TwinStickAIController.cpp">
+      <Filter>Source\DragonDeception\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\Variant_TwinStick\AI\TwinStickAIController.h">
+      <Filter>Source\DragonDeception\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DragonDeception\Variant_TwinStick\AI\TwinStickNPC.cpp">
+      <Filter>Source\DragonDeception\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\Variant_TwinStick\AI\TwinStickNPC.h">
+      <Filter>Source\DragonDeception\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DragonDeception\Variant_TwinStick\AI\TwinStickNPCDestruction.cpp">
+      <Filter>Source\DragonDeception\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\Variant_TwinStick\AI\TwinStickNPCDestruction.h">
+      <Filter>Source\DragonDeception\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DragonDeception\Variant_TwinStick\AI\TwinStickSpawner.cpp">
+      <Filter>Source\DragonDeception\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\Variant_TwinStick\AI\TwinStickSpawner.h">
+      <Filter>Source\DragonDeception\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DragonDeception\Variant_TwinStick\AI\TwinStickStateTreeUtility.cpp">
+      <Filter>Source\DragonDeception\Variant_TwinStick\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\Variant_TwinStick\AI\TwinStickStateTreeUtility.h">
+      <Filter>Source\DragonDeception\Variant_TwinStick\AI</Filter>
+    </ClInclude>
+    <Filter Include="Source\DragonDeception\Variant_TwinStick\Gameplay">
+      <UniqueIdentifier>{A2B63E59-AD2F-350B-8CC6-3DD21018CCE4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DragonDeception\Variant_TwinStick\Gameplay\TwinStickAoEAttack.cpp">
+      <Filter>Source\DragonDeception\Variant_TwinStick\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\Variant_TwinStick\Gameplay\TwinStickAoEAttack.h">
+      <Filter>Source\DragonDeception\Variant_TwinStick\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DragonDeception\Variant_TwinStick\Gameplay\TwinStickPickup.cpp">
+      <Filter>Source\DragonDeception\Variant_TwinStick\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\Variant_TwinStick\Gameplay\TwinStickPickup.h">
+      <Filter>Source\DragonDeception\Variant_TwinStick\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DragonDeception\Variant_TwinStick\Gameplay\TwinStickProjectile.cpp">
+      <Filter>Source\DragonDeception\Variant_TwinStick\Gameplay</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\Variant_TwinStick\Gameplay\TwinStickProjectile.h">
+      <Filter>Source\DragonDeception\Variant_TwinStick\Gameplay</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DragonDeception\Variant_TwinStick\TwinStickCharacter.cpp">
+      <Filter>Source\DragonDeception\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\Variant_TwinStick\TwinStickCharacter.h">
+      <Filter>Source\DragonDeception\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DragonDeception\Variant_TwinStick\TwinStickGameMode.cpp">
+      <Filter>Source\DragonDeception\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\Variant_TwinStick\TwinStickGameMode.h">
+      <Filter>Source\DragonDeception\Variant_TwinStick</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\DragonDeception\Variant_TwinStick\TwinStickPlayerController.cpp">
+      <Filter>Source\DragonDeception\Variant_TwinStick</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\Variant_TwinStick\TwinStickPlayerController.h">
+      <Filter>Source\DragonDeception\Variant_TwinStick</Filter>
+    </ClInclude>
+    <Filter Include="Source\DragonDeception\Variant_TwinStick\UI">
+      <UniqueIdentifier>{132CD80A-32E3-3D5B-AFA0-6425F9264F84}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\DragonDeception\Variant_TwinStick\UI\TwinStickUI.cpp">
+      <Filter>Source\DragonDeception\Variant_TwinStick\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\DragonDeception\Variant_TwinStick\UI\TwinStickUI.h">
+      <Filter>Source\DragonDeception\Variant_TwinStick\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
