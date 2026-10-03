@@ -72,3 +72,15 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+DragonDeception/hs_err_pid3380.log
+
+DragonDeception/.idea/
+
+DragonDeception/Binaries/
+
+DragonDeception/DerivedDataCache/
+
+DragonDeception/Saved/
+
+DragonDeception/Intermediate/
